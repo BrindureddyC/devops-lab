@@ -1,3 +1,4 @@
 "Hello World"
 "second line added"
 "Added directly from github"
+"This line added inside feature branch"
